@@ -1,7 +1,3 @@
-/* font-family: "Georgia";
-font-family: "Georgia";
-font-family: 'Arapey', serif; */
-
 body,
 html {
   width: 100%;
@@ -278,3 +274,7 @@ header.masthead p {
 .text-primary {
   color: #4a648a !important;
 }
+
+/* font-family: "Georgia";
+font-family: "Georgia";
+font-family: 'Arapey', serif; */
